@@ -41,7 +41,6 @@ npm config set @dstatus:registry http://npm.dwebs.io &&
 npm config set @bts3:registry http://npm.dwebs.io &&
 npm config set @dwcore:registry http://npm.dwebs.io &&
 npm config set @dmemo:registry http://npm.dwebs.io &&
-npm config set @dwauth:registry http://npm.dwebs.io &&
 
 repository_state
 
