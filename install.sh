@@ -4,7 +4,7 @@
 
 #### CLI Versions
 
-DPACK_CLI_VERSION="0.3.5"
+DPACK_CLI_VERSION="0.3.6"
 DDNS_TEST_VERSION="1.0.0"
 DDNS_SERVER_VERSION="0.1.4"
 DWEB_TOWER_VERSION="0.1.2"
@@ -41,6 +41,7 @@ npm config set @dstatus:registry http://npm.dwebs.io &&
 npm config set @bts3:registry http://npm.dwebs.io &&
 npm config set @dwcore:registry http://npm.dwebs.io &&
 npm config set @dmemo:registry http://npm.dwebs.io &&
+npm config set @dwauth:registry http://npm.dwebs.io &&
 
 repository_state
 
